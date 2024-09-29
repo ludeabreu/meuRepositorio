@@ -1,1 +1,3 @@
 comitado
+staged
+modificado localmente
